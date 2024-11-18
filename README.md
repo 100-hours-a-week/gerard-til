@@ -2,6 +2,18 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [11월 둘째주, 4주차] : Community 홈페이지, React, DB
+
+24.11.15 MariaDB 학습 및 AWS로 SQL 쿼리문 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/gerard-til/blob/main/2024/Nov/2024-11-15.md))
+
+24.11.14 홈페이지 Fetch 진행 ([상세 내역 링크](https://github.com/100-hours-a-week/gerard-til/blob/main/2024/Nov/2024-11-14.md))
+
+24.11.13 홈페이지 Fetch 진행 및 딥다이브 진행 ([상세 내역 링크](https://github.com/100-hours-a-week/gerard-til/blob/main/2024/Nov/2024-11-13.md))
+
+24.11.12 React 2차 학습 ([상세 내역 링크](https://github.com/100-hours-a-week/gerard-til/blob/main/2024/Nov/2024-11-12.md))
+
+24.11.11 React 복습 및 홈페이지 이벤트 처리 시작 ([상세 내역 링크](https://github.com/100-hours-a-week/gerard-til/blob/main/2024/Nov/2024-11-11.md))
+
 ### [11월 첫째주, 3주차] : Community 홈페이지, Js 심화, 웹 심화, React
 
 24.11.08 React 학습 및 홈페이지 제작 ([상세 내역 링크](https://github.com/100-hours-a-week/gerard-til/blob/main/2024/Nov/2024-11-08.md))
